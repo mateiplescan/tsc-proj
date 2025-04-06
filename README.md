@@ -3,6 +3,8 @@
 ## Diagrama bloc
 ![](Images/diagramabloc.png)
 
+## Randare 3D
+![](Images/af59ea04-e533-4a75-b12f-50b96a507880.PNG)
 
 ## Bill of Materials
 
