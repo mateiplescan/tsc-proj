@@ -2,7 +2,7 @@
 
 ## Bill of Materials (BOM)
 
-| Package                                      | Qty                                                                                             | Datasheet | Supplier  |
+| Piesă                                      | Qty                                                                                             | Datasheet | Aprovizionare  |
 |----------------------------------------------|---------------------------------------------------------------------------------------------------|----------------|-----------------|
 | ADAFRUIT_CHIP-LED0603                        | 1                                                                                           | [Link](https://www.snapeda.com/parts/KP-1608SURCK/Kingbright/datasheet/)      | [Link](https://www.arrow.com/en/products/kp-1608surck/kingbright?utm_campaign=arrow_snapeda_q32020&utm_currency=USD&utm_term=KP-1608SURCK&utm_content=inpart_link_download&region=europe&utm_source=snapeda&utm_medium=aggregator)       |
 | SJ                                           | 1                                                                                               | [Link](https://grabcad.com/library/solder-jumpers-1)      | [Link](https://grabcad.com/library/solder-jumpers-1)       |
