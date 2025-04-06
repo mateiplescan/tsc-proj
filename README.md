@@ -1,6 +1,10 @@
 # OpenBook &copy; Matei-Bogdan Plescan 2025
 
-## Bill of Materials (BOM)
+## Diagrama bloc
+![](Images/diagramabloc.png)
+
+
+## Bill of Materials
 
 | Piesă                                      | Qty                                                                                             | Datasheet | Aprovizionare  |
 |----------------------------------------------|---------------------------------------------------------------------------------------------------|----------------|-----------------|
